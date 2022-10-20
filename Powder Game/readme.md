@@ -1,0 +1,1 @@
+Simulation program that produces elements with powder dots. User can place elements as long as it’s a valid location on the grid. User can use the following elements: Metal, Sand, Water, Fart, Fire, Ice and Earth. Each element will react a certain way when paired up with a different element. For Example, sand in water will raise water levels. It’s up to the user’s imagination. 
